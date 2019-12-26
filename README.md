@@ -22,8 +22,6 @@
 
 4. Python2/3 should be installed in your machine.
 
-5. Run ```python main.py```
-
+5. Run ```python main.py``` (before running script, validate your profile.json)
 
 Note: Validate the profile.json content by using (https://jsonlint.com/) and remove the unwanted escape characters.
-
