@@ -5,7 +5,7 @@ import json
 terminal_profile_name = "Motivational"
 image_storage_loc = "***Loc****"
 """
- Terminal profile setting location can be obtained by clicking copy path on file(When file is opened in VS code
+ Terminal profile setting location can be obtained by clicking copy path on file(When file is opened in VS code)
   - To open settings file,  click settings in new terminal 
 """
 terminal_profile_settings_loc = "***Loc***"
