@@ -4,7 +4,7 @@
 
 1. Install new Terminal on windows machine
 
-2. open ```profiles.json``` by clicking settings.json in terminal window
+2. open ```profiles.json``` by clicking settings icon in terminal window
 
 3. Add a key ```backgroundImage``` in profiles array @t specific window section.
 
@@ -24,4 +24,6 @@
 
 5. Run ```python main.py```
 
+
+Note: Validate the profile.json content by using (https://jsonlint.com/) and remove the unwanted escape characters.
 
