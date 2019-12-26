@@ -24,4 +24,4 @@
 
 5. Run ```python main.py``` (before running script, validate your profile.json)
 
-Note: Validate the profile.json content by using (https://jsonlint.com/) and remove the unwanted escape characters.
+Note: Validate the profiles.json content by using (https://jsonlint.com/) and remove the unwanted escape characters.
